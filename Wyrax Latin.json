@@ -1,5 +1,5 @@
 {
-"title":"Wyrax Latin v0.65",
+"title":"Wyrax Latin v0.66",
 
 "topBar":[
 "[CLIPBOARD]",
@@ -44,7 +44,7 @@
 ],
 
 "shifted":[
-"1234567890",
+"[U+035B][MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"]©®[XK:[MC:‘’[LEFT]:‘ ’]’‘][XK:[MC:“”[LEFT]:“ ”]”“][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{]",
 "1234[XK:5%°℃℉‰‱]67890",
 "[XK:Q[MC:jQuery:ŵ3]][XK:WǷ][XK:EĚĘÊËƏɚᵊɛɜɝ][XK:RŔŘɹɾʀʁ][XK:TŤʧÞΘÐ]Y[XK:UÛÜʊ«][XK:IİÏÎɨɪ»][XK:OŒÔÕÖɒɔØ[LB]][XK:P[RB]]",
 "[XK:AÆĄÂÃÄÅʌɒɑ][XK:SŚŠßʃʧ][XK:DĎĐʤð][XK:F][XK:G'ĜĞĠĢƓʔʤ][XK:HĤĦȞḢḤḨḪɦɣȞ\"][XK:JʤȜ“][XK:K”][XK:LŁĽ][XK:-−±+=—]",
@@ -53,7 +53,7 @@
 ],
 
 "symShifted":[
-"1234567890",
+"[U+035B][MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"]©®[XK:[MC:‘’[LEFT]:‘ ’]’‘][XK:[MC:“”[LEFT]:“ ”]”“][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{]",
 "!@#$%^&*()",
 "[MC:jQuery:ŵ4]ǷĚŔŤÝ«»[]",
 "ÆŚĎ '\"“”Ľ—",

@@ -1,5 +1,5 @@
 {
-"title":"Wyrax Cyr v0.86",
+"title":"Wyrax Cyr v0.87",
 
 "topBar":[
 "[CLIPBOARD]",
@@ -43,7 +43,7 @@
 ],
 
 "shifted":[
-"₴1234567890A",
+"[U+035B][MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"]©®[XK:[MC:„“[LEFT]:„ “]“„][XK:[MC:«»[LEFT]:« »]»«][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{][LEFT][RIGHT][END]",
 "₴1234[XK:5%°℃℉‰‱]67890[XK:=≈≠−±+]",
 "ЙЦ[XK:УЎѸꙊѪ][XK:КЌѮҀ][XK:ЕѢЁЀ][XK:НЊN][XK:ГЃҒҐ]ШЩ[XK:ЗSƷⱿ]ХЇ",
 "[XK:ФѲ][XK:ІЫѶ][XK:ВѴ][XK:АⱭѦ][XK:ПѰ]Р[XK:ОѺѠ][XK:ЛΛЉ]ДЖ[XK:ЄѤЭ]-",
@@ -52,7 +52,7 @@
 ],
 
 "symShifted":[
-"₴1234567890A",
+"[U+035B][MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"]©®[XK:[MC:„“[LEFT]:„ “]“„][XK:[MC:«»[LEFT]:« »]»«][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{][LEFT][RIGHT][END]",
 "€№@#$%^&*()+",
 "Ј ЎЌѢЊҐ  Ɀ×÷",
 "ѲЫѴⱭѰ ѠЉЂЏЭ—",
