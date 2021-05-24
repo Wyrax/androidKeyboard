@@ -1,5 +1,5 @@
 {
-"title":"Wyrax Latin v0.73",
+"title":"Wyrax Latin v0.74",
 
 "topBar":[
 "[CLIPBOARD]",
@@ -32,7 +32,7 @@
 "₴[U+035B]©®[MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"][XK:[MC:‘’[LEFT]:‘ ’]’‘][XK:[MC:“”[LEFT]:“ ”]”“][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{][XK:[MC:()[LEFT]:( )])(]",
 "1234[XK:5%°℃℉‰‱]67890[XK:=≈≠−±+]",
 "[XK:q[MC:jQuery:ŵ1]][XK:wƿ][XK:eěęêëəɚᵊɛɜɝ][XK:rŕřɹɾʀʁ][XK:tťʧþθð][XK:yý][XK:uûüʊ][XK:iıïîɨɪ][XK:oœôõöɒøɔ][XK:p]-",
-"[XK:aæąâãäåʌɒɑ][XK:sśšßʃʧ][XK:dďđʤð][XK:f][XK:gĝğġģɠʔʤ][XK:hĥħȟḣḥḩḫɦɣȟ][XK:jʤȝ][XK:k][XK:lłľ]  ",
+"[XK:aæąâãäåʌɒɑ][XK:sśšßʃʧ][XK:dďđʤð][XK:f][XK:gĝğġģɠʔʤ][XK:hĥħȟḣḥḩḫɦɣȟ][XK:jʤȝ][XK:k][XK:lłľ][MC:[CTRL]x:console][]",
 "[XK:zźžżʒʣʤ][XK:x][XK:cćčçʧ][XK:v[MC:<i></i>[LEFT][LEFT][LEFT][LEFT]:<i>]][XK:b[MC:<br>[LB][RB][LEFT]:<br>]][XK:nñŋń][XK:m] [XK:[U+0301][U+0352][U+0361][U+0307][U+0304][U+030B][U+030F][U+0311][U+0300]][XK:/|\\][DEL]",
 "[SHIFT][TOOL][123:’][SYM:,][SPACE][][]:?[ALTGR:.][ENTER]"
 ],
@@ -41,7 +41,7 @@
 "£[U+0347][U+0330]_'\"‘“[LB]{(",
 "!@#$%^&*()+",
 "[MC:jQuery:ŵ2]ƿěŕťýʊɪɔ —",
-"æśď     ľ—4",
+"æśď     ľ  ",
 "ź ć[MC:<i></i>[LEFT][LEFT][LEFT][LEFT]:<i>][MC:<br>[LB][RB][LEFT]:<br>]ń  [U+0300]\\[DEL]",
 "[SHIFT][LOCK][123:’][SYM:,][SPACE][][];![ALTGR:.][ENTER]"
 ],
@@ -50,7 +50,7 @@
 "₴[U+035B]©®[MC:''[LEFT]:' '][MC:\"\"[LEFT]:\" \"][XK:[MC:‘’[LEFT]:‘ ’]’‘][XK:[MC:“”[LEFT]:“ ”]”“][XK:[MC:[LB][RB][LEFT]:[LB] [RB]][RB][LB]][XK:[MC:{}[LEFT]:{ }]}{][XK:[MC:()[LEFT]:( )])(]",
 "1234[XK:5%°℃℉‰‱]67890[XK:=≈≠−±+]",
 "[XK:Q[MC:jQuery:ŵ3]][XK:WǷ][XK:EĚĘÊËƏɚᵊɛɜɝ][XK:RŔŘɹɾʀʁ][XK:TŤʧÞΘÐ]Y[XK:UÛÜʊ][XK:IİÏÎɨɪ][XK:OŒÔÕÖɒØɔ][XK:P]-",
-"[XK:AÆĄÂÃÄÅʌɒɑ][XK:SŚŠßʃʧ][XK:DĎĐʤð][XK:F][XK:GĜĞĠĢƓʔʤ][XK:HĤĦȞḢḤḨḪɦɣȞ][XK:JʤȜ][XK:K][XK:LŁĽ][XK:-−±+×=—] ",
+"[XK:AÆĄÂÃÄÅʌɒɑ][XK:SŚŠßʃʧ][XK:DĎĐʤð][XK:F][XK:GĜĞĠĢƓʔʤ][XK:HĤĦȞḢḤḨḪɦɣȞ][XK:JʤȜ][XK:K][XK:LŁĽ][MC:[CTRL]x:console][]",
 "[XK:ZŹŽŻȜʣʤ]X[XK:CĆČÇʧ][XK:V[MC:<i></i>[LEFT][LEFT][LEFT][LEFT]:<i>]][XK:B[MC:<br>[LB][RB][LEFT]:<br>]][XK:NÑŊŃ][XK:M] [XK:[U+0301][U+0352][U+0361][U+0307][U+0304][U+030B][U+030F][U+0311][U+0300]][XK:/|\\][DEL]",
 "[SHIFT][LOCK][123:’][SYM:,][SPACE][][]:?[ALTGR:.][ENTER]"
 ],
@@ -59,8 +59,8 @@
 "£[U+0347][U+0330]_'\"‘“[LB]{(",
 "!@#$%^&*()+",
 "[MC:jQuery:ŵ4]ǷĚŔŤÝʊɪɔ —",
-"ÆŚĎ     Ľ—4",
-"Ź Ć [MC:<br>[LB][RB][LEFT]:<br>]Ń [U+0300]\\[DEL][]",
+"ÆŚĎ     Ľ  ",
+"Ź Ć[MC:<i></i>[LEFT][LEFT][LEFT][LEFT]:<i>][MC:<br>[LB][RB][LEFT]:<br>]Ń  [U+0300]\\[DEL][]",
 "[SHIFT][LOCK][123:’][SYM:,][SPACE][][];![ALTGR:.][ENTER]"
 ],
 
