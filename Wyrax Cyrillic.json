@@ -1,5 +1,5 @@
 {
-"title":"Wyrax Cyr v0.93",
+"title":"Wyrax Cyr v0.94",
 
 "topBar":[
 "[CLIPBOARD]",
@@ -34,7 +34,8 @@
 "[XK:йј]ц[XK:уўѹꙋѫ][XK:кќѯҁ][XK:еѣёѐ][XK:нњɴ][XK:гѓғґ]шщ[XK:зѕʒɀ]хї",
 "[XK:фѳ][XK:іыѵѷ][XK:вѵѷ][XK:аɑѧ][XK:пѱ]р[XK:оѻѡ][XK:лλљ][XK:дђ][XK:жʒџ][XK:єѥэ]-",
 "[XK:яѩ][XK:чћ]см[XK:иѝ][XK:т™ѳ][XK:ьъ]б[XK:юѭ][XK:[U+0301][U+0352][U+0361][U+0307][U+0304][U+030B][U+030F][U+0311][U+0300]][XK:/|\\][DEL]",
-"[SHIFT][TOOL][123:’][SYM:,][SPACE][][][]:?[ALTGR:.][ENTER]"
+"[SHIFT][TOOL][123:’][SYM:,][SPACE][][][]:?[ALTGR:.][ENTER]",
+""
 ],
 
 "sym":[
@@ -43,7 +44,8 @@
 "ј ўќѣњґ  ɀ×÷",
 "ѳыѵɑѱ ѡљђџэ—",
 "ѩћs ѝ™ъ∞ѭ[U+0300]\\[DEL]",
-"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][];![ALTGR:.][ENTER]"
+"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][];![ALTGR:.][ENTER]",
+""
 ],
 
 "shifted":[
@@ -52,7 +54,8 @@
 "ЙЦ[XK:УЎѸꙊѪ][XK:КЌѮҀ][XK:ЕѢЁЀ][XK:НЊN][XK:ГЃҒҐ]ШЩ[XK:ЗSƷⱿ]ХЇ",
 "[XK:ФѲ][XK:ІЫѴѶ][XK:ВѴѶ][XK:АⱭѦ][XK:ПѰ]Р[XK:ОѺѠ][XK:ЛΛЉ][XK:ДЂ][XK:ЖƷЏ][XK:ЄѤЭ]-",
 "[XK:ЯѨ]ЧСМИ[XK:Т™Ѳ]ЬБ[XK:ЮѬ][XK:[U+0301][U+0352][U+0361][U+0307][U+0304][U+030B][U+030F][U+0311][U+0300]][XK:/|\\][DEL]",
-"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][]:?[ALTGR:.][ENTER]"
+"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][]:?[ALTGR:.][ENTER]",
+""
 ],
 
 "symShifted":[
@@ -61,7 +64,8 @@
 "Ј ЎЌѢЊҐ  Ɀ×÷",
 "ѲЫѴⱭѰ ѠЉЂЏЭ—",
 "ѨЋS Ѝ™Ъ∞Ѭ[U+0300]\\[DEL]",
-"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][];![ALTGR:.][ENTER]"
+"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][];![ALTGR:.][ENTER]",
+""
 ],
 
 "altGr":[
@@ -70,14 +74,16 @@
 "≈=≠-±×÷«»[]\\",
 "€£§~–—_„“{}|",
 "ˋ'©®…\"‹›<>/[DEL]",
-"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][][XK::;]?[ALTGR:.][ENTER]"
+"[SHIFT][LOCK][123:’][SYM:,][SPACE][][][][XK::;]?[ALTGR:.][ENTER]",
+""
 ],
 
 "altGrShifted":[
 "№!@#$%^&*()+",
 "[TAB][MC:[ENTER]// test macros // today is {{M/d/yyyy h:mm a}}:^today^]",
 "[SHIFT][EDIT][4D:123456789][4D:abcdefghi][MC://comment {{M/d/yyyy HH:mm}}:shr][DEL]",
-"[LOCK][123:’][SYM:,][SPACE][];![ALTGR:.][ENTER]"
+"[LOCK][123:’][SYM:,][SPACE][];![ALTGR:.][ENTER]",
+""
 ]
 }
 }
